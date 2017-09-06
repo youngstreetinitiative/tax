@@ -1,0 +1,9 @@
+Package: tax
+Title: Tools For Working With ABS Sheets In R.
+Version: 0.0.0.9000
+Authors@R: person("Alex", "Millard", email = "alxmilla@gmail.com", role = c("aut", "cre"))
+Description: Has functions for reading in and manipulating sheets.
+Depends: R (>= 3.4.1)
+License: MIT
+Encoding: UTF-8
+LazyData: true
